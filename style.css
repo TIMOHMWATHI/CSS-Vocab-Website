@@ -1,3 +1,4 @@
+/* check if css is okay by setting bg color */
 *{
     background-color:rgb(247, 239, 239);
 }
