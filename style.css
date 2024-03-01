@@ -1,0 +1,35 @@
+*{
+    background-color:rgb(247, 239, 239);
+}
+/* 3. Use CSS to change all the color titles to have "font-weight: normal; */
+.color-title{
+    font-weight: normal;
+}
+
+/* 4. Use CSS (not HTML) to make all the images 200px heigh and 200px wide. */
+img{
+    height: 200px;
+    width: 200px;
+}
+
+/* 2. Use CSS to style each of the color titles to meaning. 
+Hint: Use the id to help if you don't know the words in spanish. */
+h2[id="red"]{
+    color: red;
+}
+
+h2[id="blue"]{
+    color: blue;
+}
+
+h2[id="orange"]{
+    color: orange;
+}
+
+h2[id="green"]{
+    color: green;
+}
+
+h2[id="yellow"]{
+    color: yellow;
+}
